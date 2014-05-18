@@ -6,7 +6,7 @@ include_directories(include)
 
 # Add library
 add_library(slither
-  slither.cpp)
+  src/slither.cpp)
 
 # Add test
 #add_executable(test
